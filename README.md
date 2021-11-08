@@ -1,2 +1,2 @@
 # LSTMtraining
-a language model trained based on my chat history
+LSTM Character-based language Model based on chat history
